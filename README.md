@@ -9,3 +9,5 @@
 |5|가위바위보|컴퓨터와 가위바위보 게임하여 승부 판정| ![05-swiftUI](https://github.com/kokorii/AppSchool_Lab/assets/43191663/822c9930-f784-4db1-92bf-53800d09e6c0)|![05-UIKit](https://github.com/kokorii/AppSchool_Lab/assets/43191663/c2aede2c-760c-4cb0-8578-b9aa34edc8e6)|
 |6|환율계산기|6월 29일의 환율로 외화 계산하기|![06-swiftUI](https://github.com/kokorii/AppSchool_Lab/assets/43191663/1a319bfb-8ef0-4ff0-b109-4e1c0875deaa)|---|
 |7|세계 맥주 리스트|세계 맥주 정보 모아 보기|![07-swiftUI](https://github.com/kokorii/AppSchool_Lab/assets/43191663/5858559d-664b-4498-9d29-8f8c20045a4d)|---|
+|8|할일목록 만들기|할일을 추가하고 완료 시 밀어서 삭제하기|![Simulator Screen Recording - iPhone 14 Pro - 2023-07-12 at 15 42 43](https://github.com/kokorii/AppSchool_Lab/assets/43191663/2eb7012b-322f-43fb-9c5a-4e328b9f4128)|---|
+
