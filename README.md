@@ -10,4 +10,8 @@
 |6|환율계산기|6월 29일의 환율로 외화 계산하기|![06-swiftUI](https://github.com/kokorii/AppSchool_Lab/assets/43191663/1a319bfb-8ef0-4ff0-b109-4e1c0875deaa)|---|
 |7|세계 맥주 리스트|세계 맥주 정보 모아 보기|![07-swiftUI](https://github.com/kokorii/AppSchool_Lab/assets/43191663/5858559d-664b-4498-9d29-8f8c20045a4d)|---|
 |8|할일목록 만들기|할일을 추가하고 완료 시 밀어서 삭제하기|![Simulator Screen Recording - iPhone 14 Pro - 2023-07-12 at 15 42 43](https://github.com/kokorii/AppSchool_Lab/assets/43191663/2eb7012b-322f-43fb-9c5a-4e328b9f4128)|---|
+|9|메모장|메모를 추가, 삭제, 수정할 수 있음|![sticker](https://github.com/kokorii/AppSchool_Lab/assets/43191663/5a580685-aa97-4bf1-aed7-66013a5051ba)|---|
+|10|캐릭터 게임|랜덤으로 팀을 짜고 레벨에 따라 승패를 결정|![friends](https://github.com/kokorii/AppSchool_Lab/assets/43191663/b9a8871c-254e-41b4-b689-f5b25f051a5a)|---|
+|11|프로토타이핑|커뮤니티앱 프로토타이핑|---|![Mockup](https://github.com/kokorii/AppSchool_Lab/assets/43191663/3d78cb84-545e-4aa0-a914-5e1fabdd6721)|
+|12|타이머|초단위로 시간을 세는 앱|![timer](https://github.com/kokorii/AppSchool_Lab/assets/43191663/c4e95593-839f-4d30-bd67-90315a54478b)|---|
 
